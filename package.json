@@ -1,0 +1,17 @@
+{
+  "name": "node-service-registry",
+  "version": "1.0.0",
+  "description": "微服务注册中心",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qccs",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0",
+    "request": "^2.88.0"
+  }
+}
